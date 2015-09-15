@@ -1,0 +1,6 @@
+name = Elements
+description = Provides a library of Form API elements.
+backdrop = 1.x
+version = 1.x-1.1
+type = module
+package = Fields
